@@ -5,7 +5,8 @@ object estefania {
 }
 
 object rosa {
-	method leGusta(objeto) {  }  // completar
+	method leGusta(objeto) {  } // completar
 }
+
 
 // agregar luisa y juan
